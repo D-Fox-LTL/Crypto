@@ -1,0 +1,5 @@
+﻿  clsEncryption.cpp
+D:\D-Fox-LTL\cpp\Crypto\Crypto\clsEncryption.cpp(20,21): warning C4267: =: Převod z: size_t na: int, může dojít ke ztrátě dat.
+  Crypto.cpp
+  Generování kódu...
+  Crypto.vcxproj -> D:\D-Fox-LTL\cpp\Crypto\x64\Debug\Crypto.exe
