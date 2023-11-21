@@ -75,7 +75,7 @@ bool clsEncryption::CloseFile()
 	return false;
 }
 
-//Daniku staci pouze crypt, ja si to chci jen udelat slozitejsi protoze proc ne
+//Staci pouze crypt, ja si to chci jen udelat slozitejsi protoze proc ne
 bool clsEncryption::CopyFile()
 {
 	//if p_mFile is not opened (is NULL) then cant do anything
